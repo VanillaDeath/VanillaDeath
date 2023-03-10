@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VanillaDeath
 - 👀 I’m interested in computers in general, programming, video games
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Windows projects
+- 🌱 I’m currently learning Python and C#
 - 📫 How to reach me: https://stevenwilson.ca/contact
 
 <!---
